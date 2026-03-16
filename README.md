@@ -52,8 +52,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi pada *local server
     *   Buka file `app/config/config.php` (Jika Anda menggunakan database default, mungkin tidak perlu mengubah):
         ```php
         define('DB_HOST', 'localhost');
-        define('DB_USER', 'root'); // Sesuaikan dengan user database Anda
-        define('DB_PASS', 'M0jokerto1'); // Sesuai password DB Anda (Misal user: ardianryan)
+        define('DB_USER', 'root'); // Sesuaikan dengan user database Anda (Default XAMPP: root)
+        define('DB_PASS', ''); // Kosongkan jika XAMPP, atau isi jika ada password
         define('DB_NAME', 'mikrotik_userman');
         ```
 
