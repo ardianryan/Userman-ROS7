@@ -1,8 +1,8 @@
-# Userman-ROS7
+# AuraRadius
 
-Sebuah aplikasi berbasis web (PHP) untuk mengelola **User Manager pada MikroTik RouterOS versi 7 (ROS7)** menggunakan integrasi RouterOS API. Aplikasi ini dirancang dengan antarmuka yang modern, bersih, dan responsif, memudahkan administrator maupun pelanggan jaringan untuk berinteraksi dengan layanan Hotspot atau Radius Radius Server MikroTik.
+**AuraRadius** adalah dashboard manajemen RADIUS & User Manager (MikroTik RouterOS v7) generasi berikutnya yang dirancang untuk performa tinggi dan keamanan maksimal. Aplikasi ini memberikan kontrol penuh atas infrastruktur jaringan Anda, khususnya dioptimalkan untuk autentikasi **WPA2/WPA3 Enterprise (EAP/PEAP)** dan integrasi sistem **Hotspot Captive Portal**.
 
-![MikroTik Userman ROS7](public/assets/img/mangoteklogo.png)
+![AuraRadius Branding](public/assets/img/mangoteklogo.png)
 
 ## 📌 Fitur Utama
 
