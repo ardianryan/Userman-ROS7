@@ -10,7 +10,8 @@ CREATE TABLE IF NOT EXISTS settings (
 
 -- Insert essential app settings if they don't exist
 INSERT IGNORE INTO settings (setting_key, setting_value) VALUES 
-('app_name', 'UserMan ROS7'),
+('app_name', 'AuraRadius'),
+('app_tagline', 'Next-gen RADIUS & MikroTik Orchestration'),
 ('app_logo', 'assets/img/mangoteklogo.png'),
 ('ref_code', 'WELCOME-2026'),
 ('portal_title', 'User Portal'),
