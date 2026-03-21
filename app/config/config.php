@@ -11,6 +11,6 @@ define('BASEURL', $protocol . '://' . $host . $basePath);
 
 // DB Constants
 define('DB_HOST', 'localhost');
-define('DB_USER', 'ardianryan');
-define('DB_PASS', 'M0jokerto1');
-define('DB_NAME', 'mikrotik_userman');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_NAME', 'auraradius');
